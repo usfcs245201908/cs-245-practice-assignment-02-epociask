@@ -1,4 +1,5 @@
-import  fava.lang.*; 
+import  java.lang.*; 
+
 public class NQueens {
 
     public int[][] board;
